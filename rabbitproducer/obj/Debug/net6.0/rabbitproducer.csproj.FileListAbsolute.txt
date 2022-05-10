@@ -1,0 +1,17 @@
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\bin\Debug\net6.0\rabbitproducer.exe
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\bin\Debug\net6.0\rabbitproducer.deps.json
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\bin\Debug\net6.0\rabbitproducer.runtimeconfig.json
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\bin\Debug\net6.0\rabbitproducer.dll
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\bin\Debug\net6.0\rabbitproducer.pdb
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.csproj.AssemblyReference.cache
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.AssemblyInfoInputs.cache
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.AssemblyInfo.cs
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.csproj.CoreCompileInputs.cache
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.csproj.CopyComplete
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.dll
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\refint\rabbitproducer.dll
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.pdb
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\rabbitproducer.genruntimeconfig.cache
+C:\Users\pom-user\Desktop\ms-intermediate-test\Question-2A\rabbitproducer\obj\Debug\net6.0\ref\rabbitproducer.dll
